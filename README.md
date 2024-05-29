@@ -4,7 +4,8 @@ This is the README file for my project. It provides an overview of what the proj
 
 ## Features
 
-- Feature 65
+- Feature 5
+- Feature 2
 - Feature 3
 - Feature 2
 
