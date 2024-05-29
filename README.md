@@ -4,7 +4,7 @@ This is the README file for my project. It provides an overview of what the proj
 
 ## Features
 
-- Feature 1
+- Feature 5
 - Feature 2
 - Feature 3
 
@@ -12,10 +12,14 @@ This is the README file for my project. It provides an overview of what the proj
 
 To get started with this project, follow these steps:
 
-1. Step 1
+1. Step 2
 2. Step 2
-3. Step 3
+3. Step 4
 
 ## Test Commit
 
 This is a test commit for demonstrating GitHub Desktop features.
+
+## Conflict Setup
+
+This is a change in the conflict-setup branch.
