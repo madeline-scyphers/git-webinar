@@ -15,3 +15,7 @@ To get started with this project, follow these steps:
 1. Step 1
 2. Step 2
 3. Step 3
+
+## Test Commit
+
+This is a test commit for demonstrating GitHub Desktop features.
