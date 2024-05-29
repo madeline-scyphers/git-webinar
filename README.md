@@ -18,4 +18,4 @@ To get started with this project, follow these steps:
 
 ## Test Commit
 
-This is a test commit for demonstrating GitHub Desktop features.
+This line demonstrates a change.
